@@ -1,0 +1,4 @@
+[servers]
+ubundesk ansible_host=192.168.56.102
+backup ansible_host=192.168.56.101
+
